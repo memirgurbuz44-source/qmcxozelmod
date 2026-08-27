@@ -41,6 +41,6 @@ java {
 
 jar {
 	from("LICENSE") {
-		rename "${it}_${project.archives_base_name}", "${it}"
+		rename "${it}_qmcxozelmod", "${it}"
 	}
 }
